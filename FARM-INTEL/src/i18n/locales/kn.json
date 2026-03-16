@@ -1,0 +1,151 @@
+{
+  "app": {
+    "title": "ಮಣ್ಣಿನಿಂದ ಮಾರಾಟಕ್ಕೆ",
+    "tagline": "AI ಮೂಲಕ ರೈತರನ್ನು ಬಲಪಡಿಸುವುದು"
+  },
+  "splash": {
+    "welcome": "ಸ್ವಾಗತ",
+    "selectLanguage": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "login": {
+    "title": "ಲಾಗಿನ್ / ನೋಂದಣಿ",
+    "phoneLabel": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+    "phonePlaceholder": "10 ಅಂಕಿಗಳ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ",
+    "getOTP": "OTP ಪಡೆಯಿರಿ",
+    "otpLabel": "OTP ನಮೂದಿಸಿ",
+    "otpPlaceholder": "6 ಅಂಕಿಗಳ OTP ನಮೂದಿಸಿ",
+    "loginButton": "ಲಾಗಿನ್ / ನೋಂದಣಿ",
+    "resendOTP": "OTP ಮರುಕಳುಹಿಸಿ"
+  },
+  "onboarding": {
+    "step1Title": "ನಿಮ್ಮ ಹೆಸರೇನು?",
+    "step1Placeholder": "ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+    "step2Title": "ನಿಮ್ಮ ಹೊಲ ಎಲ್ಲಿದೆ?",
+    "useLocation": "ನನ್ನ ಪ್ರಸ್ತುತ ಸ್ಥಳವನ್ನು ಬಳಸಿ",
+    "selectOnMap": "ಅಥವಾ ನಕ್ಷೆಯಲ್ಲಿ ಆಯ್ಕೆಮಾಡಿ",
+    "confirmLocation": "ಸ್ಥಳವನ್ನು ದೃಢೀಕರಿಸಿ",
+    "next": "ಮುಂದೆ",
+    "skip": "ಬಿಟ್ಟುಬಿಡಿ"
+  },
+  "dashboard": {
+    "greeting": "ನಮಸ್ಕಾರ",
+    "weather": "ಹವಾಮಾನ",
+    "temperature": "ತಾಪಮಾನ",
+    "humidity": "ತೇವಾಂಶ",
+    "rainfall": "ಮಳೆಯ ಮುನ್ಸೂಚನೆ",
+    "myLand": "ನನ್ನ ಭೂಮಿ",
+    "myLandDesc": "ನಿಮ್ಮ ಭೂಮಿಯ ಆರೋಗ್ಯವನ್ನು ವಿಶ್ಲೇಷಿಸಿ",
+    "cropPlan": "ಬೆಳೆ ಯೋಜನೆ",
+    "cropPlanDesc": "ಬೆಳೆ ಮತ್ತು ಗೊಬ್ಬರ ಶಿಫಾರಸುಗಳನ್ನು ಪಡೆಯಿರಿ",
+    "market": "ಮಾರುಕಟ್ಟೆ",
+    "marketDesc": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು ಮತ್ತು ಮುನ್ಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+    "community": "ಸಮುದಾಯ",
+    "communityDesc": "ಸಹ ರೈತರೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಿ"
+  },
+  "land": {
+    "title": "ಭೂಮಿ ಮತ್ತು ಮಣ್ಣು ವಿಶ್ಲೇಷಣೆ",
+    "suitability": "ಭೂಮಿ ಸೂಕ್ತತೆ",
+    "soilFertility": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ",
+    "overallSuitability": "ಒಟ್ಟಾರೆ ಸೂಕ್ತತೆ",
+    "highlySuitable": "ಅತ್ಯಂತ ಸೂಕ್ತ",
+    "soilHealthScore": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸ್ಕೋರ್",
+    "keyNutrients": "ಪ್ರಮುಖ ಪೋಷಕಾಂಶಗಳು",
+    "nitrogen": "ನೈಟ್ರೋಜನ್",
+    "phosphorus": "ಫಾಸ್ಫರಸ್",
+    "potassium": "ಪೊಟ್ಯಾಸಿಯಂ",
+    "good": "ಉತ್ತಮ",
+    "low": "ಕಡಿಮೆ",
+    "getCropRecommendations": "ಈ ಭೂಮಿಗಾಗಿ ಬೆಳೆ ಶಿಫಾರಸುಗಳನ್ನು ಪಡೆಯಿರಿ"
+  },
+  "crop": {
+    "title": "ಬೆಳೆ ಮತ್ತು ಗೊಬ್ಬರ ಶಿಫಾರಸು",
+    "usingDataFrom": "'ನನ್ನ ಭೂಮಿ' ವಿಶ್ಲೇಷಣೆಯಿಂದ ಡೇಟಾವನ್ನು ಬಳಸುವುದು",
+    "getRecommendations": "ಶಿಫಾರಸುಗಳನ್ನು ಪಡೆಯಿರಿ",
+    "topRecommendation": "ಉನ್ನತ ಶಿಫಾರಸು",
+    "expectedYield": "ನಿರೀಕ್ಷಿತ ಇಳುವರಿ",
+    "marketDemand": "ಮಾರುಕಟ್ಟೆ ಬೇಡಿಕೆ",
+    "soilSuitability": "ಮಣ್ಣಿನ ಸೂಕ್ತತೆ",
+    "high": "ಹೆಚ್ಚು",
+    "otherGoodOptions": "ಇತರ ಉತ್ತಮ ಆಯ್ಕೆಗಳು",
+    "fertilizerPlan": "ಗೊಬ್ಬರ ಯೋಜನೆ",
+    "fertilizerFor": "ಗೊಬ್ಬರ",
+    "recommendedType": "ಶಿಫಾರಸು ಮಾಡಿದ ಪ್ರಕಾರ",
+    "optimalDosage": "ಸೂಕ್ತ ಪ್ರಮಾಣ",
+    "applicationSchedule": "ಅನ್ವಯಿಕ ವೇಳಾಪಟ್ಟಿ",
+    "cropRotation": "ಬೆಳೆ ಪರ್ಯಾಯ",
+    "sustainablePlan": "ಸುಸ್ಥಿರ 3-ಋತು ಯೋಜನೆ",
+    "currentSeason": "ಪ್ರಸ್ತುತ ಋತು",
+    "nextSeason": "ಮುಂದಿನ ಋತು",
+    "season3": "ಋತು 3",
+    "whyThisPlan": "ಈ ಯೋಜನೆ ಏಕೆ?",
+    "rotationBenefit": "ಈ ಪರ್ಯಾಯವು ಮಣ್ಣಿನ ಆರೋಗ್ಯವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ"
+  },
+  "market": {
+    "title": "ಮಾರುಕಟ್ಟೆ",
+    "searchPlaceholder": "ಬೆಳೆಗಾಗಿ ಹುಡುಕಿ...",
+    "myCrops": "ನನ್ನ ಬೆಳೆಗಳು",
+    "nearbyMandi": "ಹತ್ತಿರದ ಮಂಡಿ ಬೆಲೆಗಳು",
+    "currentPrice": "ಪ್ರಸ್ತುತ ಬೆಲೆ",
+    "per": "ಪ್ರತಿ",
+    "quintal": "ಕ್ವಿಂಟಾಲ್",
+    "priceForecast": "ಬೆಲೆ ಮುನ್ಸೂಚನೆ",
+    "aiSuggestion": "AI ಸಲಹೆ",
+    "pricesRising": "ಬೆಲೆಗಳು ಏರಿಕೆಯಾಗುವ ಸಾಧ್ಯತೆ",
+    "sellIn": "ಸಲಹೆ: ಮಾರಾಟ ಮಾಡಿ",
+    "week": "ವಾರದಲ್ಲಿ",
+    "pricesFalling": "ಬೆಲೆಗಳು ಸ್ಥಿರವಾಗಬಹುದು",
+    "holdFor": "ಸಲಹೆ: ಇಟ್ಟುಕೊಳ್ಳಿ",
+    "days": "ದಿನಗಳು"
+  },
+  "community": {
+    "title": "ಸಮುದಾಯ",
+    "knowledgeForum": "ಜ್ಞಾನ ವೇದಿಕೆ",
+    "tradeExchange": "ವ್ಯಾಪಾರ ವಿನಿಮಯ",
+    "askQuestion": "ಪ್ರಶ್ನೆ ಕೇಳಿ",
+    "questionPlaceholder": "ನಿಮ್ಮ ಕೃಷಿ ಪ್ರಶ್ನೆಯನ್ನು ಬರೆಯಿರಿ...",
+    "post": "ಪೋಸ್ಟ್ ಮಾಡಿ",
+    "buy": "ನಾನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+    "sell": "ನಾನು ಮಾರಾಟ ಮಾಡಲು ಬಯಸುತ್ತೇನೆ",
+    "shareEquipment": "ಉಪಕರಣಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ",
+    "searchListings": "ಪಟ್ಟಿಗಳನ್ನು ಹುಡುಕಿ..."
+  },
+  "profile": {
+    "title": "ನನ್ನ ಪ್ರೊಫೈಲ್",
+    "name": "ಹೆಸರು",
+    "phone": "ಫೋನ್",
+    "location": "ಸ್ಥಳ",
+    "edit": "ಸಂಪಾದಿಸಿ",
+    "myFarm": "ನನ್ನ ಹೊಲ",
+    "appSettings": "ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "changeLanguage": "ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿ",
+    "carbonCredit": "ಕಾರ್ಬನ್ ಕ್ರೆಡಿಟ್ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "ecoScore": "ನಿಮ್ಮ ಪರಿಸರ ಸ್ಕೋರ್",
+    "practicesTracked": "ಟ್ರ್ಯಾಕ್ ಮಾಡಿದ ಅಭ್ಯಾಸಗಳು",
+    "usingOptimizedFertilizer": "ಅನುಕೂಲಿತ ಗೊಬ್ಬರವನ್ನು ಬಳಸುವುದು",
+    "sustainableCropRotation": "ಸುಸ್ಥಿರ ಬೆಳೆ ಪರ್ಯಾಯ",
+    "estimatedCredits": "ಅಂದಾಜು ಕಾರ್ಬನ್ ಕ್ರೆಡಿಟ್‌ಗಳು",
+    "credits": "ಕ್ರೆಡಿಟ್‌ಗಳು",
+    "logout": "ಲಾಗ್ ಔಟ್"
+  },
+  "navigation": {
+    "home": "ಮುಖಪುಟ",
+    "market": "ಮಾರುಕಟ್ಟೆ",
+    "community": "ಸಮುದಾಯ",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "back": "ಹಿಂದೆ"
+  },
+  "voice": {
+    "listening": "ಆಲಿಸುತ್ತಿದೆ...",
+    "tapToSpeak": "ಮಾತನಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ",
+    "processing": "ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "common": {
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ದೋಷ",
+    "success": "ಯಶಸ್ಸು",
+    "cancel": "ರದ್ದುಗೊಳಿಸಿ",
+    "confirm": "ದೃಢೀಕರಿಸಿ",
+    "save": "ಉಳಿಸಿ",
+    "delete": "ಅಳಿಸಿ"
+  }
+}
